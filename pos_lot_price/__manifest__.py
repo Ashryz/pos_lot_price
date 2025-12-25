@@ -20,7 +20,7 @@
     ],
     'assets':{
         'point_of_sale._assets_pos': [
-            'pos18_test/static/src/js/pos_order_line.js',
+            'pos_lot_price/static/src/js/pos_order_line.js',
         ]
     }
 }
